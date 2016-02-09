@@ -30,3 +30,6 @@ Data structure loaded from disk
  load :  {3 4 5 Pythagoras {10 11 Trad} {{0 0} 0 0 0 0} map[1:{6 7 Quad} 2:{8 9
 R}] 0xc082026230}
  load :  [A B]
+
+5. References
+Test examples https://github.com/golang/go/tree/master/src/encoding/gob
